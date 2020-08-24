@@ -1,6 +1,6 @@
 # Blockchain wiki
 
-![bhp](./img/bhp.png)
+
 
 ## Community 
 
