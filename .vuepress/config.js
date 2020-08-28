@@ -38,8 +38,8 @@ module.exports = {
     locales: {
         "/": {
             lang: "zh-CN",
-            title: "区块链百科",
-            description: "区块链百科",
+            title: "BHP 百科",
+            description: "BHP 百科",
         }
     },
     plugins: [['vuepress-plugin-code-copy', true]],
@@ -74,9 +74,10 @@ module.exports = {
                     ["区块链的衍生技术", "/zh/derivative-tech"],
                     ["区块链的技术应用", "/zh/application"],
                     ["什么是Cosmos?", "/zh/cosmos"],
+                    ["什么是Oracle?", "/zh/oracle"],
+                    ["VM", "/zh/vm"],
                     ["什么是Ethermint ？", "/zh/ethermint"],
                     ["什么是Tendermint？", "/zh/tendermint"],
-                    ["BHP2.0", "/zh/bhp"],
                 ])
             }
         }
